@@ -1,0 +1,14 @@
+.content {
+  min-height: calc(93vh - 70px);
+}
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 40px;
+}
+
+.cont{
+  height: 300px;
+  overflow-y: auto;
+}
